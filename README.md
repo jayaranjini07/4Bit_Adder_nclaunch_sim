@@ -72,6 +72,8 @@ Developed by: Register Number*/
       
 	After this you can see the window like below 
 
+<img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/76f39c3d-d282-431e-afbc-cefa84f08120" />
+
 ### Fig 3:Invoke the Cadence Environment
 
 	To Launch Simulation tool 
@@ -84,11 +86,15 @@ or
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
+<img width="1920" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/20dcc20a-a296-4aa2-a355-25a7fb9367a6" />
+
 ### Fig 4:Setting Multi-step simulation
 
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
+
+<img width="1920" height="1080" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/e5698f5d-280d-40e1-ad17-0a465cb40af2" />
 
 ### Fig 5:cds.lib file Creation
 
@@ -100,7 +106,7 @@ or
 
 •	A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
-![image](https://github.com/user-attachments/assets/781b297a-11e9-4140-89c5-ee3b0d15bbd4)
+<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/b87c106e-730a-4537-9446-31f48d2cd276" />
 
 ### Fig 6: Selection of Don’t include any libraries
 
@@ -111,6 +117,8 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+
+<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/0080b2d4-7bf0-4312-8367-67e8c215ffe9" />
 
 ### Fig 7: Nclaunch Window
 
